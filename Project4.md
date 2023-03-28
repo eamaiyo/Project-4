@@ -18,7 +18,7 @@
 ![Ubuntu-Add-Certifcate-3b](./Image-4/Ubuntu-Add-Certifcate-3b.PNG) 
 
 `sudo apt install -y nodejs` -(Installing Node.js to make my system and broswer act as a server)
-![Ubuntu-Add-Certifcate-3b](./Project-4/Image-4/Ubuntu-Install-Nodejs-4.PNG)
+![Ubuntu-Install-Nodejs](./Image-4/Ubuntu-Install-Nodejs-4.PNG)
 
 ## STEP 2 — INSTALL MONGODB
 
